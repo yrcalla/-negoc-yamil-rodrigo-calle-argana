@@ -1,4 +1,4 @@
-# Proyecto académico de Git, SQL y PokeAPI
+# Proyecto académico de GitHub y PokeAPI.
 # -negoc-yamil-rodrigo-calle-argana
 repositorio de auxiliatura
 Apellidos: Calle Argana
