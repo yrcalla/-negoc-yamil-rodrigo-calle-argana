@@ -2,6 +2,7 @@ INSERT INTO categorias(nombre) VALUES
 ('Lacteos'),
 ('Bebidas'),
 ('Snacks');
+
 INSERT INTO productos(nombre,categoria_id,precio,stock) VALUES
 ('Leche',1,8.50,15),
 ('Queso',1,22.00,5),
@@ -17,6 +18,7 @@ INSERT INTO productos(nombre,categoria_id,precio,stock) VALUES
 ('Lays',3,7.00,8),
 ('Pringles',3,18.00,2),
 ('Mani',3,4.50,40);
+
 INSERT INTO clientes(nombre,telefono,email) VALUES
 ('Juan Perez','77711111','juan@gmail.com'),
 ('Maria Flores','77722222','maria@gmail.com'),
@@ -73,4 +75,3 @@ VALUES
 (10,4,1,12.00),
 (10,7,3,5.00),
 (10,12,5,4.50);
-
